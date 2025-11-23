@@ -4,8 +4,8 @@
   "homeUrl": "https://sudoku-farcaster-frame.vercel.app",
   "description": "Farcaster üzerinde oynanan bir Sudoku Frame uygulaması.",
   "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
+    "header": "eyJmaWQiOjMzODU5MywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEJCQjRDZWVmN0ZmZDM0ODgwMzc2OEQwRjZDNUZFQUU3MTM0MEY4ZDYifQ",
+    "payload": "eyJkb21haW4iOiJzdWRva3UtZmFyY2FzdGVyLWZyYW1lLnZlcmNlbC5hcHAifQ",
+    "signature": "Pqde0cv6dPjz2ohtLDuBiIiAn4gmIcJva4PdM6K5d5YCkgXEUBeZQ7NcJcB8KnoCcjj6caMHdXOKrOEkPMA1MRw="
   }
 }
