@@ -1,0 +1,11 @@
+{
+  "name": "Sudoku Farcaster Frame",
+  "icon": "https://sudoku-farcaster-frame.vercel.app/icon.svg",
+  "homeUrl": "https://sudoku-farcaster-frame.vercel.app",
+  "description": "Farcaster üzerinde oynanan bir Sudoku Frame uygulaması.",
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  }
+}
